@@ -1,0 +1,12 @@
+{
+  "name": "my-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "rogeralbinoi",
+  "license": "MIT"
+}
